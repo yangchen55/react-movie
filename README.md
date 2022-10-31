@@ -10,3 +10,7 @@ write a paragraph about the project
  - run  `npm start `
 
  fetch and he
+
+ feature:
+ search movie and display under the form
+ `http://www.omdbapi.com/?s=${search}&apikey=f2b88761`
